@@ -1,0 +1,9 @@
+.images-top{
+    width:150px;
+    height: 150px;;
+    border-radius:150px;
+    transform: translate(0,0);
+}
+.top-display{
+    text-align: center;
+}
