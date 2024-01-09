@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Simple portfolio with bootstrap5 and html5",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joselu315/portfolio.git"
+  },
+  "author": "Jose Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joselu315/portfolio/issues"
+  },
+  "homepage": "https://github.com/Joselu315/portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2"
+  }
+}
